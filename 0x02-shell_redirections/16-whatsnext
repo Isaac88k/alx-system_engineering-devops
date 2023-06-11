@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -jA 3 "root" /tc/passwd
+grep -jA 3 "root" /etc/passwd
